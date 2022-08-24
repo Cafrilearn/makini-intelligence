@@ -1,0 +1,8 @@
+cffi==1.15.1
+pkg_resources==0.0.0
+PyAudio==0.2.11
+pycparser==2.21
+pyttsx3==2.90
+style==1.1.0
+update==0.0.1
+vosk @ https://github.com/alphacep/vosk-api/releases/download/0.3.21/vosk-0.3.21-py3-none-linux_aarch64.whl
